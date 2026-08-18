@@ -1,6 +1,4 @@
 # tcp-mitm-proxy
-TCP proxy con multiplexación (select), detección de destino vía SNI/SO_ORIGINAL_DST/CLI, e interceptación TLS mediante certificados propios.
-# tcp-mitm-proxy
 
 Un proxy TCP hecho a mano que intercepta tráfico HTTP y HTTPS, te deja ver cada paquete en hexadecimal o texto, y te da la opción de editarlo, dejarlo pasar o descartarlo antes de que llegue a destino.
 
